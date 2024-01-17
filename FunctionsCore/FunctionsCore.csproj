@@ -4,6 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <OutputType>Library</OutputType>
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,11 +13,16 @@
     <Folder Include="Contexts\Functions\" />
     <Folder Include="Contexts\Models\" />
     <Folder Include="Enums\" />
-    <Folder Include="Log\" />
     <Folder Include="Commons\" />
     <Folder Include="Exceptions\" />
-    <Folder Include="Utilities\" />
     <Folder Include="Services\" />
+    <Folder Include="Utilities\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Serilog" Version="3.1.1" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="5.0.1" />
+    <PackageReference Include="Serilog.Sinks.File" Version="5.0.0" />
   </ItemGroup>
 
 </Project>
