@@ -8,13 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Contexts\Base\" />
-    <Folder Include="Contexts\Entities\" />
-    <Folder Include="Contexts\Functions\" />
-    <Folder Include="Contexts\Models\" />
-    <Folder Include="Enums\" />
-    <Folder Include="Commons\" />
-    <Folder Include="Exceptions\" />
+    <Folder Include="Commons\Base\" />
+    <Folder Include="Commons\Models\" />
+    <Folder Include="Contexts\" />
     <Folder Include="Services\" />
     <Folder Include="Utilities\" />
   </ItemGroup>
