@@ -1,4 +1,4 @@
-﻿using FunctionsCore.Enums;
+﻿using FunctionsCore.Enums.Unit;
 using System;
 using System.Collections.Generic;
 using System.Linq;

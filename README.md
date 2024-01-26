@@ -1,3 +1,3 @@
 ﻿# Billix
 
-Egy szoftver, amely segít az otthoni számlák és közművek kezelésében.
+The software is currently under development!
