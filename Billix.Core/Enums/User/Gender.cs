@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FunctionsCore.Enums.User
+namespace Billix.Core.Enums.User
 {
-    public enum UserType
+    public enum Gender
     {
-        Viewer,
-        Editor,
-        Administrator,
+        Men,
+        Women,
+        Other,
     }
 }

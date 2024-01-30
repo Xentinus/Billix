@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FunctionsCore.Enums.House
+namespace Billix.Core.Enums.House
 {
     public enum HouseType
     {

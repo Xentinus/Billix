@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FunctionsCore.Enums.Room
+namespace Billix.Core.Enums.Room
 {
     public enum RoomType
     {

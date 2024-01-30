@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FunctionsCore.Enums.Unit
+namespace Billix.Core.Enums.Unit
 {
     /// <summary>
     /// enum to specify measurements

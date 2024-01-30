@@ -8,7 +8,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Billix.API", "Billix.API\Bi
 		{A61670AB-F29D-43F4-9766-8310EEAA6975} = {A61670AB-F29D-43F4-9766-8310EEAA6975}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionsCore", "FunctionsCore\FunctionsCore.csproj", "{A61670AB-F29D-43F4-9766-8310EEAA6975}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Billix.Core", "Billix.Core\Billix.Core.csproj", "{A61670AB-F29D-43F4-9766-8310EEAA6975}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

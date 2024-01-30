@@ -1,6 +1,6 @@
 ﻿using Serilog;
 
-namespace FunctionsCore
+namespace Billix.Core
 {
     public static class Log
     {

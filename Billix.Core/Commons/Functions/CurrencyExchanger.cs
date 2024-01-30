@@ -1,11 +1,11 @@
-﻿using FunctionsCore.Enums.Unit;
+﻿using Billix.Core.Enums.Unit;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FunctionsCore.Commons.Functions
+namespace Billix.Core.Commons.Functions
 {
     /// <summary>
     /// Currency Exchanger (using FreeCurrencyAPI)

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FunctionsCore.Enums
+namespace Billix.Core.Enums
 {
     public enum InvoiceStatus
     {
